@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image {
+    background-image: url("https://res.cloudinary.com/dnui5jkxv/image/upload/v1714285887/WhatsApp_Image_2024-04-28_at_11.48.37_3ff8e29f_fflwgh.jpg");
+    height: auto;
+    background-size: cover;
+}
+
+.bg1 {
+    background-color: transparent;
+    height: 56px;
+    width: 158px;
+}
+
+.h1 {
+    color: darkgreen;
+}
+
+.h2 {
+    color: lightgreen;
+}
+
+.head {
+    font-size: 20px;
+    width: 30px;
+}
+
+.background2 {
+    border-style: dotted;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-width: 2px;
+    height: 60px;
+    width: 50px;
+    border-radius: 3px;
+}
+
+.img3 {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading {
+    font-size: 15px;
+}
+
+.paragraph {
+    font-size: 15px;
+
+}
+
+.background3 {
+    border-style: dotted;
+    text-align: center;
+    border-width: 2px;
+    height: 60px;
+    width: 130px;
+    border-radius: 3px;
+}
+
+.background4 {
+    border-style: solid;
+    background-color: darkblue;
+    border-radius: 3px;
+    padding: 5px;
+    height: 60px;
+    width: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.imgr {
+    border-radius: 100px;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    text-align: center;
+
+}
+
+.p2 {
+    color: white;
+    font-size: 12px;
+}
+
+.p3 {
+    color: white;
+    font-size: 12px;
+}
+
+.icon {
+    color: white;
+}
+
+.background5 {
+    border-style: dotted;
+    border-radius: 3px;
+    padding: 5px;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.back {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.back2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.h10 {
+    color: darkBlue;
+    font-weight: bold;
+}
+
+.h11 {
+    color: darkblue;
+    font-size: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.c1 {
+    background-color: white;
+    border-radius: 20px;
+    width: 120vh;
+    height: 60px;
+    margin: 100px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+
+}
+
+.c2 {
+    background-color: lightblue;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    margin: 15px;
+    width: 100px;
+}
+
+.h17 {
+    font-size: 10px;
+}
+
+.card2 {
+    background-color: darkblue;
+    height: 40vh;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin: 30px;
+
+}
+
+.card21 {
+    margin: 40px;
+    height: 60px;
+    width: 280px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+
+}
+
+.para {
+    color: white;
+    font-size: 10px;
+}
+
+.para1 {
+    color: white;
+    font-size: 15px;
+}
+
+.card22 {
+    margin: 40px;
+    height: 60px;
+    width: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: white;
+
+}
+
+.data {
+    text-align: center;
+}
+
+.star {
+    height: 30px;
+    width: 40px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 2px;
+    background-color: white;
+
+}
+
+.card23 {
+    display: flex;
+    flex-direction: row;
+}
+
+.pa {
+    color: white;
+}
+
+.checkbox {
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.box1 {
+    position: relative;
+    top: 150px;
+}
+
+.box2 {
+    position: static;
+    top: 100px;
+}
+
+.head1 {
+    font-size: 40px;
+}
+
+.head2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.vl {
+    border-left: 3px solid black;
+    height: 50px;
+}
+
+.head3 {
+    font-size: 15px;
+}
+
+.l {
+    text-align: center;
+}
+
+.hr {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.image5 {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.fg {
+    font-size: 20px;
+    color: darkblue;
+}
+
+.pg {
+    font-size: 10px;
+}
+
+.val {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.p9 {
+    color: white;
+}
+
+.empty {
+    background-color: darkblue;
+}
+
+.h18 {
+    font-size: 10px;
+    color: white;
+}
+
+.card24 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card25 {
+    justify-content: space-between;
+}
